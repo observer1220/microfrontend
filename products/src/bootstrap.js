@@ -1,4 +1,4 @@
-import faker from 'faker';
+import faker from "faker";
 
 const mount = (el) => {
   let products = "";
